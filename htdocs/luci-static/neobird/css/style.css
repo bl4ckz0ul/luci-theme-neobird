@@ -114,7 +114,7 @@ html, body {
     margin: 0px;
     padding: 0px;
     height: 100%;
-    font-family: -apple-system, 'Microsoft Yahei' !important;
+    font-family: -apple-system, 'Open Sans' !important;
     font-size: 0.92rem;
     line-height: 150%;
     background-color: var(--bg);
@@ -160,7 +160,7 @@ input {
     color: var(--inputtextColor);
     padding: 5px 10px;
     font-size: 0.92rem;
-    font-family: -apple-system, 'Microsoft Yahei', sans-serif, Helvetica, Arial, sans-serif;
+    font-family: -apple-system, 'Open Sans', Roboto, Helvetica, Arial, sans-serif;
     border: var(--inputBorder);
     background-color: var(--inputbgColor);
     transition: color 150ms ease, border-color 150ms ease, opacity 150ms ease;
@@ -302,7 +302,7 @@ input.cbi-button.cbi-button-add {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: -apple-system, 'Microsoft Yahei';
+    font-family: -apple-system, 'Open Sans';
     font-weight: 600;
     line-height: 1.1;
     color: inherit;
